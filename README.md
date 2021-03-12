@@ -1,4 +1,7 @@
-# React hooks learning with usage bootstrap and github api (the request to the server is made by means of an axios package)
+# React hooks learning with usage bootstrap and github api 
+## (the request to the server is made by means of an axios package)
+### GitHub OAuth application settings : https://github.com/settings/applications/1495710
+
 
 # Getting Started with Create React App
 
